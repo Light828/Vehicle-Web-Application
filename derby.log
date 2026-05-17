@@ -1,0 +1,61 @@
+Wed May 06 19:09:14 CAT 2026 : Apache Derby Network Server - 10.10.2.0 - (1582446) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Wed May 06 19:09:15 CAT 2026:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-019d-fe43-e08d-ffffe85d1376 
+on database directory C:\Users\PC\AppData\Roaming\NetBeans\Derby\TextSpectaclesDB with class loader sun.misc.Launcher$AppClassLoader@75a1cd57 
+Loaded from file:/C:/Users/PC/glassfish4/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_481-b10
+user.dir=C:\Users\PC\glassfish4\javadb
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\PC\AppData\Roaming\NetBeans\Derby
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed May 06 19:09:26 CAT 2026:
+Shutting down instance a816c00e-019d-fe43-e08d-ffffe85d1376 on database directory C:\Users\PC\AppData\Roaming\NetBeans\Derby\TextSpectaclesDB with class loader sun.misc.Launcher$AppClassLoader@75a1cd57 
+Wed May 06 19:09:26 CAT 2026 Thread[DRDAConnThread_3,5,main] (DATABASE = TextSpectaclesDB), (DRDAID = {2}), Database 'TextSpectaclesDB' shutdown.
+----------------------------------------------------------------
+Wed May 06 19:09:38 CAT 2026:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance ed8940a7-019d-fe43-e08d-ffffe85d1376 
+on database directory C:\Users\PC\AppData\Roaming\NetBeans\Derby\TextSpectaclesDB with class loader sun.misc.Launcher$AppClassLoader@75a1cd57 
+Loaded from file:/C:/Users/PC/glassfish4/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_481-b10
+user.dir=C:\Users\PC\glassfish4\javadb
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\PC\AppData\Roaming\NetBeans\Derby
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 08 13:27:13 CAT 2026:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance 2aed0129-019d-fe43-e08d-ffffe85d1376 
+on database directory C:\Users\PC\AppData\Roaming\NetBeans\Derby\ClassTest4DB with class loader sun.misc.Launcher$AppClassLoader@75a1cd57 
+Loaded from file:/C:/Users/PC/glassfish4/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_481-b10
+user.dir=C:\Users\PC\glassfish4\javadb
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\PC\AppData\Roaming\NetBeans\Derby
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 08 13:27:25 CAT 2026:
+Shutting down instance 2aed0129-019d-fe43-e08d-ffffe85d1376 on database directory C:\Users\PC\AppData\Roaming\NetBeans\Derby\ClassTest4DB with class loader sun.misc.Launcher$AppClassLoader@75a1cd57 
+Fri May 08 13:27:25 CAT 2026 Thread[DRDAConnThread_4,5,main] (DATABASE = ClassTest4DB), (DRDAID = {202}), Database 'ClassTest4DB' shutdown.
+----------------------------------------------------------------
+Fri May 08 13:28:10 CAT 2026:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance eaa841c2-019d-fe43-e08d-ffffe85d1376 
+on database directory C:\Users\PC\AppData\Roaming\NetBeans\Derby\ClassTest4DB with class loader sun.misc.Launcher$AppClassLoader@75a1cd57 
+Loaded from file:/C:/Users/PC/glassfish4/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_481-b10
+user.dir=C:\Users\PC\glassfish4\javadb
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\PC\AppData\Roaming\NetBeans\Derby
+Database Class Loader started - derby.database.classpath=''
